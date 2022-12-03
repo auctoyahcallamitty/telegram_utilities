@@ -1,4 +1,4 @@
-# <p align="center">TELEGRAM GROUP MEMBERS ADDER<p>
+# <p align="center"> Telegram Group Members Adder<p>
 
 <img src="./assets/screenshot.png" alt="screenshot" border="0">
 
@@ -15,14 +15,14 @@ This is a simple application that you can use for adding members to your group f
 
 If you have your specific requirements I can make the modifications according to that.
 
-Please contact me for a demo or more details.
+<a href="https://mega.nz/file/1mJVmK4I#SW_UbKXh_XeCt8DO7mnDGOgNoaDJ8zw0JBxX8jrb8ss">Click here to watch the demo</a>
 
 ## How to buy ❔
 The price of this tool would be $30. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
 
-If you want to make the payment with crypto or with something else please contact me.
+<a href="https://www.buymeacoffee.com/shandev4/e/96077" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
-<a href="https://www.buymeacoffee.com/shandev4/e/96077" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 80px !important;" ></a>
+If you want to make the payment with crypto or with something else please contact me.
 
 ## Developed with
 - Python 3.9.7
