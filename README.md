@@ -15,7 +15,7 @@ This is a simple application that you can use for adding members to your group f
 
 If you have your specific requirements I can make the modifications according to that.
 
-<a href="https://mega.nz/file/1mJVmK4I#SW_UbKXh_XeCt8DO7mnDGOgNoaDJ8zw0JBxX8jrb8ss">Click here to watch the demo</a>
+You can contact me to get a demo
 
 ## How to buy ❔
 The price of this tool would be $30. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
