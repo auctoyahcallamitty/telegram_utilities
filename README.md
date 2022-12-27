@@ -1,6 +1,6 @@
 # <p align='center'> TELEGRAM UTILITIES (PAID)</p>
 
-<p> This repository contains some telegram utilities that you can use for various telegram related tasks. All of these utilities are written in python and telethon.</p>
+<p> This repository contains some paid telegram utilities that you can use for various telegram related tasks. All of these utilities are written in python and telethon.</p>
 
 ## Contact me
 - Telegram - [@shandev4](https://t.me/shandev4)
