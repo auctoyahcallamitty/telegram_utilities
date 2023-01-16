@@ -21,7 +21,8 @@ This is a simple application that you can use for adding members to your group f
 3. Add members to groups & channels
 4. Add members with one or more accounts
 5. Use proxies when using multiple accounts
-6. This can be used on windows If you need to run this on a mac or a Linux please contact me before buying.
+
+This can be used on windows If you need to run this on a mac or a Linux please contact me before buying.
 
 If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo or more details.
 
@@ -53,7 +54,8 @@ This is a simple application to send messages to groups and members of groups.
 4. Send messages with files/media
 5. Send messages using multiple accounts
 6. Add proxies to avoid getting banned from telegram
-7. This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
+
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
 
 If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo or more details.
 
@@ -85,7 +87,8 @@ This is a simple application that you can use to forward messages from various c
 5. When forwarding messages you can choose which type of media should only be forwarded
 6. If the source message got edited this app will edit the forwarded message too
 7. If the source message got deleted this app will delete the forwarded message too
-8. This can be used on windows. If you need to run this on mac or Linux, please contact me before buying
+
+This can be used on windows. If you need to run this on mac or Linux, please contact me before buying
 
 If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo or more details.
 
@@ -114,8 +117,10 @@ This is a simple application that you can use for sending a message to discord s
 ## Features
 1. You can send a direct message to any user when they join the server on any server that also you're a member
 2. You can use multiple tokens when using this application, that way if one account gets blocked it'll use another account automatically
-3. This program can only be used with self-bots (discord user accounts)
-4. This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying.
+
+This program can only be used with self-bots (discord user accounts)
+
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying.
 
 If you have your specific requirements I can make the modifications according to that.
 
@@ -131,3 +136,37 @@ If you want to make the payment with crypto or with something else please contac
 ## Developed with 
 - Python 3.9.7
 - discord.py-self 1.9.2
+
+
+<br>
+
+# 5️⃣ TELEGRAM MESSAGE SPAMMER - GUI
+
+<img src="./assets/tg_dm_spammer_gui.png" alt="screenshot" style="border-radius: 1%">
+
+## What is this ❔
+This is a simple application to manage accounts and send messages to groups.
+
+## Features
+1. Change accounts info (Name, Username, Profile Picture)
+2. Auto join to list of groups
+3. Send messages to a list of groups
+4. Send messages with files/media
+5. Send messages using multiple accounts
+6. Add proxies to avoid getting banned from telegram
+
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
+
+If you have your specific requirements I can make the modifications according to that. Please contact me to get more details.
+
+## How to buy ❔
+The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
+
+If you want to make the payment with crypto or with something else please contact me.
+
+<a href="https://www.buymeacoffee.com/shandev4/e/112254" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+
+## Developed with
+- Python 3.9.7
+- Telethon 1.24.0
+- PySide2
