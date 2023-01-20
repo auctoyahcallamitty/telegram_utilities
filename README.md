@@ -170,3 +170,6 @@ If you want to make the payment with crypto or with something else please contac
 - Python 3.9.7
 - Telethon 1.24.0
 - PySide2
+
+
+# ----
