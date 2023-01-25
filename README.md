@@ -110,40 +110,7 @@ If you want to make the payment with crypto or with something else please contac
 
 <br>
 
-# 4️⃣ DISCORD MESSAGE SPAMMER ON MEMBER JOIN TO SERVER
-
-<img src="./assets/discord_spammer.png" alt="screenshot" style="border-radius: 1%">
-
-## What is this ❔
-This is a simple application that you can use for sending a message to discord server new members as soon as they joined.
-
-## Features
-1. You can send a direct message to any user when they join the server on any server that also you're a member
-2. You can use multiple tokens when using this application, that way if one account gets blocked it'll use another account automatically
-
-This program can only be used with self-bots (discord user accounts)
-
-This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying.
-
-If you have your specific requirements I can make the modifications according to that.
-
-You can contact me if you have any other questions.
-
-## How to buy ❔
-The price of this tool would be **$25**. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
-
-If you want to make the payment with crypto or with something else please contact me.
-
-<a href="https://www.buymeacoffee.com/shandev4/e/96070" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 80px !important;" ></a>
-
-## Developed with 
-- Python 3.9.7
-- discord.py-self 1.9.2
-
-
-<br>
-
-# 5️⃣ TELEGRAM MESSAGE SPAMMER - GUI
+# 4️⃣ TELEGRAM MESSAGE SPAMMER - GUI
 
 <img src="./assets/tg_dm_spammer_gui.png" alt="screenshot" style="border-radius: 1%">
 
@@ -173,6 +140,3 @@ If you want to make the payment with crypto or with something else please contac
 - Python 3.9.7
 - Telethon 1.24.0
 - PySide2
-
-
-# ----
