@@ -1,6 +1,6 @@
-# <p align='center'> TELEGRAM & DISCORD UTILITIES (PAID)</p>
+# <p align='center'> TELEGRAM UTILITIES (PAID)</p>
 
-<p> This repository contains some paid telegram & discord utilities that you can use for various telegram & discord related tasks. All of these utilities are written in python</p>
+<p> This repository contains some paid telegram utilities that you can use for various telegram related tasks. All of these utilities are written in python and telethon</p>
 
 ## Contact me
 - Telegram - [@shandev4](https://t.me/shandev4)
@@ -8,7 +8,7 @@
 
 <br>
 
-# 1️⃣ Telegram Group Members Adder
+# 1️⃣ Telegram Group Members Adder CLI Application
 
 <img src="./assets/tg_members_adder.png" alt="tg_members_adder.png" border="0">
 
@@ -21,6 +21,7 @@ This is a simple application that you can use for adding members to your group f
 3. Add members to groups & channels
 4. Add members with one or more accounts
 5. Use proxies when using multiple accounts
+6. Scrape members based on their last seen
 
 This can be used on windows If you need to run this on a mac or a Linux please contact me before buying.
 
@@ -40,7 +41,7 @@ If you want to make the payment with crypto or with something else please contac
 
 <br>
 
-# 2️⃣ Telegram Message Spammer
+# 2️⃣ Telegram Message Spammer CLI Application
 
 <img src="./assets/tg_message_spammer.png" alt="tg_message_spammer.png" border="0">
 
@@ -54,6 +55,8 @@ This is a simple application to send messages to groups and members of groups.
 4. Send messages with files/media
 5. Send messages using multiple accounts
 6. Add proxies to avoid getting banned from telegram
+7. Scrape and send message to users
+8. Send messages using a alreay scraped members csv based on usernames
 
 This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
 
