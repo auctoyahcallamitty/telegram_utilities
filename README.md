@@ -140,3 +140,28 @@ If you want to make the payment with crypto or with something else please contac
 - Python 3.9.7
 - Telethon 1.24.0
 - PySide2
+
+# 4️⃣ TELEGRAM MESSAGE SPAMMER BOT
+
+<img src="./assets/tg_spam_bot.png" alt="screenshot" style="border-radius: 1%">
+
+## What is this ❔
+This can be used to send messages to groups using telegram accounts or the bot itself.
+
+## Features
+1. Add accounts
+2. Add Groups
+3. Add messages with links and media
+4. Set interval for sending messages
+5. Send messages 24x7
+
+This can be used on any kind of platform.
+
+If you have your specific requirements I can make the modifications according to that. Please contact me to get more details.
+
+## How to buy ❔
+The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
+
+If you want to make the payment with crypto or with something else please contact me.
+
+<a href="https://www.buymeacoffee.com/shandev4/e/101960" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
