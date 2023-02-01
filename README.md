@@ -141,7 +141,7 @@ If you want to make the payment with crypto or with something else please contac
 - Telethon 1.24.0
 - PySide2
 
-# 4️⃣ TELEGRAM MESSAGE SPAMMER BOT
+# 5️⃣ TELEGRAM MESSAGE SPAMMER BOT
 
 <img src="./assets/tg_spam_bot.png" alt="screenshot" style="border-radius: 1%">
 
