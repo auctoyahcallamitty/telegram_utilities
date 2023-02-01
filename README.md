@@ -165,3 +165,7 @@ The price of this tool would be $45. You can buy the program from here. After yo
 If you want to make the payment with crypto or with something else please contact me.
 
 <a href="https://www.buymeacoffee.com/shandev4/e/101960" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+
+## Developed with
+- Python 3.9.7
+- Telethon 1.24.0
