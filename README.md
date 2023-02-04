@@ -8,7 +8,40 @@
 
 <br>
 
-# 1️⃣ Telegram Group Members Adder CLI Application
+# 1️⃣ TELEGRAM MESSAGE SPAMMER - GUI
+
+<img src="./assets/tg_dm_spammer_gui.png" alt="screenshot" style="border-radius: 1%">
+
+## What is this ❔
+This is a simple application to manage accounts and send messages to groups.
+
+## Features
+1. Change accounts info (Name, Username, Profile Picture)
+2. Auto join to list of groups
+3. Send messages to a list of groups
+4. Send messages with files/media
+5. Send messages using multiple accounts
+6. Add proxies to avoid getting banned from telegram
+
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
+
+If you have your specific requirements I can make the modifications according to that. Please contact me to get more details.
+
+## How to buy ❔
+The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
+
+If you want to make the payment with crypto or with something else please contact me.
+
+<a href="https://www.buymeacoffee.com/shandev4/e/112254" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+
+## Developed with
+- Python 3.9.7
+- Telethon 1.24.0
+- PySide2
+
+<br>
+
+# 2️⃣ Telegram Group Members Adder CLI Application
 
 <img src="./assets/tg_members_adder.png" alt="tg_members_adder.png" border="0">
 
@@ -41,7 +74,7 @@ If you want to make the payment with crypto or with something else please contac
 
 <br>
 
-# 2️⃣ Telegram Message Spammer CLI Application
+# 3️⃣ Telegram Message Spammer CLI Application
 
 <img src="./assets/tg_message_spammer.png" alt="tg_message_spammer.png" border="0">
 
@@ -75,7 +108,7 @@ If you want to make the payment with crypto or with something else please contac
 
 <br>
 
-# 3️⃣ Telegram Message Forwarder
+# 4️⃣ Telegram Message Forwarder
 
 <img src="./assets/tg_message_forwarder.png" alt="tg_message_forwarder.png" border="0">
 
@@ -109,37 +142,6 @@ If you want to make the payment with crypto or with something else please contac
 - telethon 1.24.0
 
 <br>
-
-# 4️⃣ TELEGRAM MESSAGE SPAMMER - GUI
-
-<img src="./assets/tg_dm_spammer_gui.png" alt="screenshot" style="border-radius: 1%">
-
-## What is this ❔
-This is a simple application to manage accounts and send messages to groups.
-
-## Features
-1. Change accounts info (Name, Username, Profile Picture)
-2. Auto join to list of groups
-3. Send messages to a list of groups
-4. Send messages with files/media
-5. Send messages using multiple accounts
-6. Add proxies to avoid getting banned from telegram
-
-This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
-
-If you have your specific requirements I can make the modifications according to that. Please contact me to get more details.
-
-## How to buy ❔
-The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
-
-If you want to make the payment with crypto or with something else please contact me.
-
-<a href="https://www.buymeacoffee.com/shandev4/e/112254" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
-
-## Developed with
-- Python 3.9.7
-- Telethon 1.24.0
-- PySide2
 
 # 5️⃣ TELEGRAM MESSAGE SPAMMER BOT
 
