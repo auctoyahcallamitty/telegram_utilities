@@ -1,6 +1,6 @@
 # <p align='center'> TELEGRAM UTILITIES (PAID)</p>
 
-<p> This repository contains some paid telegram utilities that you can use for various telegram related tasks. All of these utilities are written in python and telethon</p>
+<p> This repository contains some paid telegram utilities that you can use for various telegram related tasks. All of these utilities are written in python and telethon. You can ontact me to get more details about any of these tools.</p>
 
 ## Contact me
 - Telegram - [@shandev4](https://t.me/shandev4)
@@ -8,7 +8,7 @@
 
 <br>
 
-# 1️⃣ TELEGRAM MESSAGE SPAMMER - GUI
+# 1️⃣ Telegram Message Spammer GUI Application
 
 <img src="./assets/tg_dm_spammer_gui.png" alt="screenshot" style="border-radius: 1%">
 
@@ -23,14 +23,10 @@ This is a simple application to manage accounts and send messages to groups.
 5. Send messages using multiple accounts
 6. Add proxies to avoid getting banned from telegram
 
-This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
-
-If you have your specific requirements I can make the modifications according to that. Please contact me to get more details.
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that.
 
 ## How to buy ❔
-The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
-
-If you want to make the payment with crypto or with something else please contact me.
+The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
 <a href="https://www.buymeacoffee.com/shandev4/e/112254" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
@@ -56,16 +52,13 @@ This is a simple application that you can use for adding members to your group f
 5. Use proxies when using multiple accounts
 6. Scrape members based on their last seen
 
-This can be used on windows If you need to run this on a mac or a Linux please contact me before buying.
-
-If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo or more details.
+This can be used on windows If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo.
 
 ## How to buy ❔
-The price of this tool would be $30. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
+The price of this tool would be $30. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
 <a href="https://www.buymeacoffee.com/shandev4/e/96077" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
-If you want to make the payment with crypto or with something else please contact me.
 
 ## Developed with
 - Python 3.9.7
@@ -91,14 +84,10 @@ This is a simple application to send messages to groups and members of groups.
 7. Scrape and send message to users
 8. Send messages using a alreay scraped members csv based on usernames
 
-This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
-
-If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo or more details.
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo.
 
 ## How to buy ❔
-The price of this tool would be $25. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
-
-If you want to make the payment with crypto or with something else please contact me.
+The price of this tool would be $25. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
 <a href="https://www.buymeacoffee.com/shandev4/e/94861" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
@@ -108,7 +97,7 @@ If you want to make the payment with crypto or with something else please contac
 
 <br>
 
-# 4️⃣ Telegram Message Forwarder
+# 4️⃣ Telegram Message Forwarder GUI Application
 
 <img src="./assets/tg_message_forwarder.png" alt="tg_message_forwarder.png" border="0">
 
@@ -124,16 +113,12 @@ This is a simple application that you can use to forward messages from various c
 6. If the source message got edited this app will edit the forwarded message too
 7. If the source message got deleted this app will delete the forwarded message too
 
-This can be used on windows. If you need to run this on mac or Linux, please contact me before buying
-
-If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo or more details.
+This can be used on windows. If you need to run this on mac or Linux, please contact me before buying. If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo.
 
 ## How to buy ❔
-The price of this tool would be $25. You can buy the program from [here](https://www.buymeacoffee.com/shandev4/e/96317). After you make the payment you'll receive the program to the email that you entered at the payment.
-<br>
+The price of this tool would be $25. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
+
 <a href="https://www.buymeacoffee.com/shandev4/e/96317" target="_blank"><img src='./assets/buy.png' alt="buy" style="height: 50px; !important;"></a>
-<br>
-If you want to make the payment with crypto or with something else please contact me.
 
 ## Developed with
 - python 3.9.7
@@ -143,7 +128,7 @@ If you want to make the payment with crypto or with something else please contac
 
 <br>
 
-# 5️⃣ TELEGRAM MESSAGE SPAMMER BOT
+# 5️⃣ Telegram Message Spammer Telegram Bot
 
 <img src="./assets/tg_spam_bot.png" alt="screenshot" style="border-radius: 1%">
 
@@ -157,14 +142,10 @@ This can be used to send messages to groups using telegram accounts or the bot i
 4. Set interval for sending messages
 5. Send messages 24x7
 
-This can be used on any kind of platform.
-
-If you have your specific requirements I can make the modifications according to that. Please contact me to get more details.
+This can be used on any kind of platform. If you have your specific requirements I can make the modifications according to that.
 
 ## How to buy ❔
-The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
-
-If you want to make the payment with crypto or with something else please contact me.
+The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
 <a href="https://www.buymeacoffee.com/shandev4/e/101960" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
@@ -172,7 +153,7 @@ If you want to make the payment with crypto or with something else please contac
 - Python 3.9.7
 - Telethon 1.24.0
 
-# 6️⃣ TELEGRAM ACCOUNT CREATOR
+# 6️⃣ Telegram Account Creator GUI Application
 
 <img src="./assets/tg_account_creator.png" alt="screenshot" style="border-radius: 1%">
 
@@ -184,16 +165,12 @@ This application can be used to manage telegram accounts and create new telegram
 2. Change account profile picture
 3. Use proxies when creating accounts to avoid getting banned
 
-This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
-
-If you have your specific requirements I can make the modifications according to that. contact me to get more details.
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that.
 
 ## How to buy ❔
-The price of this tool would be $35. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
+The price of this tool would be $35. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-If you want to make the payment with crypto or with something else please contact me.
-
-<a href="" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+<a href="https://www.buymeacoffee.com/shandev4/e/101956" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
 ## Developed with
 - Python 3.9.7
