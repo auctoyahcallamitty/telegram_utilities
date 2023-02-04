@@ -169,3 +169,31 @@ If you want to make the payment with crypto or with something else please contac
 ## Developed with
 - Python 3.9.7
 - Telethon 1.24.0
+
+# 6️⃣ TELEGRAM ACCOUNT CREATOR
+
+<img src="./assets/tg_account_creator.png" alt="screenshot" style="border-radius: 1%">
+
+## What is this ❔
+This application can be used to manage telegram accounts and create new telegram accounts.
+
+## Features
+1. Change account name/username/bio
+2. Change account profile picture
+3. Use proxies when creating accounts to avoid getting banned
+
+This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying
+
+If you have your specific requirements I can make the modifications according to that. contact me to get more details.
+
+## How to buy ❔
+The price of this tool would be $35. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment.
+
+If you want to make the payment with crypto or with something else please contact me.
+
+<a href="" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+
+## Developed with
+- Python 3.9.7
+- Telethon 1.24.0
+- PySide2
