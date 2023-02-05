@@ -6,6 +6,9 @@
 - Telegram - [@shandev4](https://t.me/shandev4)
 - Discord - shandev#5722
 
+Updates of the existing tools and New tools release channel<br>
+https://t.me/shandev_utilities
+
 <br>
 
 # 1️⃣ Telegram Message Spammer GUI Application
