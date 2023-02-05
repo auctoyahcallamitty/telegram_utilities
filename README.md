@@ -1,6 +1,6 @@
 # <p align='center'> TELEGRAM UTILITIES (PAID)</p>
 
-<p> This repository contains some paid telegram utilities that you can use for various telegram related tasks. All of these utilities are written in python and telethon. You can ontact me to get more details about any of these tools.</p>
+<p> This repository contains some paid telegram utilities that you can use for various telegram-related tasks. All of these utilities are written in python and telethon. You can contact me to get more details about any of these tools.</p>
 
 ## Contact me
 - Telegram - [@shandev4](https://t.me/shandev4)
@@ -84,8 +84,8 @@ This is a simple application to send messages to groups and members of groups.
 4. Send messages with files/media
 5. Send messages using multiple accounts
 6. Add proxies to avoid getting banned from telegram
-7. Scrape and send message to users
-8. Send messages using a alreay scraped members csv based on usernames
+7. Scrape and send messages to users
+8. Send messages using an already scraped member csv based on usernames
 
 This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that. Please contact me to get a demo.
 
@@ -123,8 +123,8 @@ The price of this tool would be $25. You can buy the program from here. After yo
 
 <a href="https://www.buymeacoffee.com/shandev4/e/96317" target="_blank"><img src='./assets/buy.png' alt="buy" style="height: 50px; !important;"></a>
 
-## Developed with
-- python 3.9.7
+## Developed withP
+- ython 3.9.7
 - pyside 5.15.2.1
 - pyqtdarktheme 1.1.0
 - telethon 1.24.0
@@ -142,7 +142,7 @@ This can be used to send messages to groups using telegram accounts or the bot i
 1. Add accounts
 2. Add Groups
 3. Add messages with links and media
-4. Set interval for sending messages
+4. Set an interval for sending messages
 5. Send messages 24x7
 
 This can be used on any kind of platform. If you have your specific requirements I can make the modifications according to that.
@@ -164,9 +164,10 @@ The price of this tool would be $45. You can buy the program from here. After yo
 This application can be used to manage telegram accounts and create new telegram accounts.
 
 ## Features
-1. Change account name/username/bio
-2. Change account profile picture
-3. Use proxies when creating accounts to avoid getting banned
+1. Create telegram accounts
+2. Change account name/username/bio
+3. Change account profile picture
+4. Use proxies when creating accounts to avoid getting banned
 
 This can be used on windows. If you need to run this on a mac or a Linux please contact me before buying. If you have your specific requirements I can make the modifications according to that.
 
