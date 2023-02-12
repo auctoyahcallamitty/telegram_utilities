@@ -3,11 +3,11 @@
 <p> This repository contains some paid telegram utilities that you can use for various telegram-related tasks. All of these utilities are written in python and telethon. You can contact me to get more details about any of these tools.</p>
 
 ## Contact me
-- Telegram - [@shandev4](https://t.me/shandev4)
-- Discord - shandev#5722
+- Telegram - [@rohith419](https://t.me/rohith419)
+- Discord - rohith#2697
 
 Updates of the existing tools and New tools release channel<br>
-https://t.me/shandev_utilities
+https://t.me/rohith_utilities
 
 <br>
 
@@ -31,7 +31,7 @@ This can be used on windows. If you need to run this on a mac or a Linux please 
 ## How to buy ❔
 The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-<a href="https://www.buymeacoffee.com/shandev4/e/112254" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rohith419/e/112254" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
 ## Developed with
 - Python 3.9.7
@@ -60,7 +60,7 @@ This can be used on windows If you need to run this on a mac or a Linux please c
 ## How to buy ❔
 The price of this tool would be $30. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-<a href="https://www.buymeacoffee.com/shandev4/e/96077" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rohith419/e/96077" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
 
 ## Developed with
@@ -92,7 +92,7 @@ This can be used on windows. If you need to run this on a mac or a Linux please 
 ## How to buy ❔
 The price of this tool would be $25. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-<a href="https://www.buymeacoffee.com/shandev4/e/94861" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rohith419/e/94861" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
 ## Developed with
 - Python 3.9.7
@@ -121,7 +121,7 @@ This can be used on windows. If you need to run this on mac or Linux, please con
 ## How to buy ❔
 The price of this tool would be $25. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-<a href="https://www.buymeacoffee.com/shandev4/e/96317" target="_blank"><img src='./assets/buy.png' alt="buy" style="height: 50px; !important;"></a>
+<a href="https://www.buymeacoffee.com/rohith419/e/96317" target="_blank"><img src='./assets/buy.png' alt="buy" style="height: 50px; !important;"></a>
 
 ## Developed withP
 - ython 3.9.7
@@ -150,7 +150,7 @@ This can be used on any kind of platform. If you have your specific requirements
 ## How to buy ❔
 The price of this tool would be $45. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-<a href="https://www.buymeacoffee.com/shandev4/e/101960" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rohith419/e/101960" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
 ## Developed with
 - Python 3.9.7
@@ -174,7 +174,7 @@ This can be used on windows. If you need to run this on a mac or a Linux please 
 ## How to buy ❔
 The price of this tool would be $35. You can buy the program from here. After you make the payment you'll receive the program to the email that you entered at the payment. If you want to make the payment with crypto or with something else please contact me.
 
-<a href="https://www.buymeacoffee.com/shandev4/e/101956" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rohith419/e/101956" target="_blank"><img src="./assets/buy.png" alt="Buy" style="height: 50px !important;" ></a>
 
 ## Developed with
 - Python 3.9.7
